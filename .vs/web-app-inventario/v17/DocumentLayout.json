@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nathl\\Downloads\\web-app-inventario-main\\web-app-inventario-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27441FD8-FA8C-46D6-AA4F-A1C12EA3BCDE}|Test1\\Test1.csproj|c:\\users\\nathl\\downloads\\web-app-inventario-main\\web-app-inventario-main\\test1\\produtorepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27441FD8-FA8C-46D6-AA4F-A1C12EA3BCDE}|Test1\\Test1.csproj|solutionrelative:test1\\produtorepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C87A740-4722-46D0-B750-4AFB6822E49A}|web-app-inventario\\web-app-inventario.csproj|c:\\users\\nathl\\downloads\\web-app-inventario-main\\web-app-inventario-main\\web-app-inventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C87A740-4722-46D0-B750-4AFB6822E49A}|web-app-inventario\\web-app-inventario.csproj|solutionrelative:web-app-inventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C87A740-4722-46D0-B750-4AFB6822E49A}|web-app-inventario\\web-app-inventario.csproj|c:\\users\\nathl\\downloads\\web-app-inventario-main\\web-app-inventario-main\\web-app-inventario\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C87A740-4722-46D0-B750-4AFB6822E49A}|web-app-inventario\\web-app-inventario.csproj|solutionrelative:web-app-inventario\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27441FD8-FA8C-46D6-AA4F-A1C12EA3BCDE}|Test1\\Test1.csproj|c:\\users\\nathl\\downloads\\web-app-inventario-main\\web-app-inventario-main\\test1\\produtocontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27441FD8-FA8C-46D6-AA4F-A1C12EA3BCDE}|Test1\\Test1.csproj|solutionrelative:test1\\produtocontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F17ACF-799C-41A5-933D-7961B730055D}|web-app-domain\\web-app-domain.csproj|c:\\users\\nathl\\downloads\\web-app-inventario-main\\web-app-inventario-main\\web-app-domain\\values.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F17ACF-799C-41A5-933D-7961B730055D}|web-app-domain\\web-app-domain.csproj|solutionrelative:web-app-domain\\values.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27441FD8-FA8C-46D6-AA4F-A1C12EA3BCDE}|Test1\\Test1.csproj|c:\\users\\nathl\\downloads\\web-app-inventario-main\\web-app-inventario-main\\test1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27441FD8-FA8C-46D6-AA4F-A1C12EA3BCDE}|Test1\\Test1.csproj|solutionrelative:test1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoRepositorytest.cs",
+              "DocumentMoniker": "C:\\Users\\nathl\\Downloads\\web-app-inventario-main\\web-app-inventario-main\\Test1\\ProdutoRepositorytest.cs",
+              "RelativeDocumentMoniker": "Test1\\ProdutoRepositorytest.cs",
+              "ToolTip": "C:\\Users\\nathl\\Downloads\\web-app-inventario-main\\web-app-inventario-main\\Test1\\ProdutoRepositorytest.cs",
+              "RelativeToolTip": "Test1\\ProdutoRepositorytest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T01:03:06.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\nathl\\Downloads\\web-app-inventario-main\\web-app-inventario-main\\Test1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Test1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\nathl\\Downloads\\web-app-inventario-main\\web-app-inventario-main\\Test1\\UnitTest1.cs",
+              "RelativeToolTip": "Test1\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T23:36:13.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Values.cs",
+              "DocumentMoniker": "C:\\Users\\nathl\\Downloads\\web-app-inventario-main\\web-app-inventario-main\\web-app-domain\\Values.cs",
+              "RelativeDocumentMoniker": "web-app-domain\\Values.cs",
+              "ToolTip": "C:\\Users\\nathl\\Downloads\\web-app-inventario-main\\web-app-inventario-main\\web-app-domain\\Values.cs",
+              "RelativeToolTip": "web-app-domain\\Values.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T23:32:38.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produtocontrollertest.cs",
+              "DocumentMoniker": "C:\\Users\\nathl\\Downloads\\web-app-inventario-main\\web-app-inventario-main\\Test1\\Produtocontrollertest.cs",
+              "RelativeDocumentMoniker": "Test1\\Produtocontrollertest.cs",
+              "ToolTip": "C:\\Users\\nathl\\Downloads\\web-app-inventario-main\\web-app-inventario-main\\Test1\\Produtocontrollertest.cs",
+              "RelativeToolTip": "Test1\\Produtocontrollertest.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAFMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T23:20:43.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\nathl\\Downloads\\web-app-inventario-main\\web-app-inventario-main\\web-app-inventario\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "web-app-inventario\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\nathl\\Downloads\\web-app-inventario-main\\web-app-inventario-main\\web-app-inventario\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "web-app-inventario\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAADgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T23:06:28.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nathl\\Downloads\\web-app-inventario-main\\web-app-inventario-main\\web-app-inventario\\Program.cs",
+              "RelativeDocumentMoniker": "web-app-inventario\\Program.cs",
+              "ToolTip": "C:\\Users\\nathl\\Downloads\\web-app-inventario-main\\web-app-inventario-main\\web-app-inventario\\Program.cs",
+              "RelativeToolTip": "web-app-inventario\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T23:47:42.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
